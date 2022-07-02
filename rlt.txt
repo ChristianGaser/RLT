@@ -1,0 +1,38 @@
+% ______________________________________________________________
+% Rodent Longitudinal Toolbox for SPM12
+% Version  1  (RLT)  2020-02-26
+%  http://dbm.neuro.uni-jena.de/
+% ______________________________________________________________
+% Copyright (C) 2020 Christian Gaser christian.gaser@uni-jena.de
+% 
+% ==============================================================
+% Description
+% ==============================================================
+% This toolbox is an extensions to SPM12 (Wellcome Department of
+% Cognitive  Neurology) AND CAT12 (Structural Brain Mapping Group)
+% to provide morphometric preprocessing of mouse and rat data.
+%
+% The toolbox is developed by Christian Gaser (University of 
+% Jena, Department of Psychiatry) and is available to the 
+% scientific community under the terms of the GNU General Public 
+% License.
+%
+% The mouse templates were used from:
+% https://www.nitrc.org/projects/tpm_mouse
+% Please cite the follwing article for the atlas:
+% Hikishima K, Komaki Y, Seki F, Ohnishi Y, Okano HJ, Okano H. 
+% In vivo microscopic voxel-based morphometry with a brain template 
+% to characterize strain-specific structures in the mouse brain. 
+% Sci Rep. 2017 Dec;7(1):85
+%
+% The rat templates were used from:
+% https://www.nitrc.org/projects/tpm_rat
+% Templates for Long-Evans Rat Brain
+% Keigo Hikishima, Susumu Setogawa, Hiroshi Mizuma, Yilong Cui, 
+% Kazuto Kobayashi, Hirotaka Onoe
+%
+% Voxel size and origin of the template data were modified for the 
+% use in the RLT toolbox.
+%
+% ______________________________________________________________
+%                                     Christian Gaser 2020/02/26

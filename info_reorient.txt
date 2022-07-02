@@ -1,0 +1,6 @@
+yaw pi/2
+y -1
+z -1
+
+set AC!
+scaling by 10!!!
