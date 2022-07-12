@@ -1,7 +1,7 @@
 % ______________________________________________________________
 % Rodent Longitudinal Toolbox for SPM12
 % Version  1  (RLT)  2020-02-26
-%  http://dbm.neuro.uni-jena.de/
+%  https://neuro-jena.github.io/
 % ______________________________________________________________
 % Copyright (C) 2020 Christian Gaser christian.gaser@uni-jena.de
 % 
