@@ -5,7 +5,7 @@
 % ==========================================================================
 % Description
 % ==========================================================================
-% This toolbox is a an extensions to SPM12 (Wellcome Department of Cognitive 
+% This toolbox is an extensions to SPM12 (Wellcome Department of Cognitive 
 % Neurology) to provide preprocessing of longitudinal mouse data.
 % It is developed by Christian Gaser (University of Jena, Department of
 % Psychiatry) and is available to the scientific community under the terms of
